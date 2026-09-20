@@ -65,3 +65,32 @@ A college project developed in Python to manage library books and basic library 
 ### Day 2 Status
 
 ✅ Completed
+
+
+## Day 3 – OOP Advanced Concepts
+
+### Topics Covered
+
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
+### Work Completed
+
+- Used private data for encapsulation.
+- Created `LibraryBook` and `EBook` classes for inheritance.
+- Demonstrated polymorphism using the same method with different behavior.
+- Created an abstract `LibraryItem` class.
+- Implemented an abstract method using a child class.
+
+### Concepts Learned
+
+- Encapsulation protects internal data.
+- Inheritance allows code reuse between classes.
+- Polymorphism allows the same method to have different behavior.
+- Abstraction hides unnecessary implementation details.
+
+### Day 3 Status
+
+✅ Completed
